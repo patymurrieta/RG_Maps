@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 301,
+    "height" : 240
+  }, {
+    "width" : 602,
+    "height" : 480
+  }, {
+    "width" : 1203,
+    "height" : 959
+  }, {
+    "width" : 2406,
+    "height" : 1918
+  }, {
+    "width" : 4812,
+    "height" : 3836
+  }, {
+    "width" : 9623,
+    "height" : 7672
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 9623,
+  "@id" : "https://patymurrieta.github.io/RG_Maps/images/blac_JGI_XXV_03_Teozacoalco_map_small",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7672
+}
