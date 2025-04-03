@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://patymurrieta.github.io/RG_Maps/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in patymurrieta/RG_Maps project"
+        ]
+    },
+    "items": []
+}
