@@ -1,0 +1,53 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Mapa de Teozacoalco",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This pictorial manuscript, measuring 142 by 177 cm., dating from 1580, and relating to the Mixtec community of San Pedro Teozacoalco, in the modern state of Oaxaca, resides currently in the Benson Library at the University of Texas, Austin. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution" : "LILLAS Benson, University of Texas at Austin",
+  "sequences" : [ {
+    "@id" : "http://1303b6c1-d1e2-4456-8175-09c9c2aaa954",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc",
+      "@type" : "sc:Canvas",
+      "label" : "Mapa de Teozacoalco",
+      "height" : 7672,
+      "width" : 9623,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://29ab35bc-d8d6-4d69-9af4-a41763a59aaf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://patymurrieta.github.io/RG_Maps/images/blac_JGI_XXV_03_Teozacoalco_map_small/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://patymurrieta.github.io/RG_Maps/images/blac_JGI_XXV_03_Teozacoalco_map_small",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7672,
+          "width" : 9623
+        },
+        "on" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Description",
+        "value" : "The Mapa de Teozacoalco is part of the map and manuscript genre called Relaciones Geográficas, produced in response to questionnaires that came from Spanish monarchs, seeking information about their colonies. This map was made in response to inquiries from the Spanish King Philip II. The Mapa de Teozacoalco, painted on twenty-three sheets of European paper pasted together at their edges, contains indigenous pictorial styles, but shows some European influence. The landscape, for instance, is dotted with new Christian churches. Roads show not only human footprints but also horseshoe prints. Emphasis resides in the history of Teozacoalco, with information about a tenth-century ruling family, and subsequent genealogy through the sixteenth century. The circular shape is worthy of special attention. The circle includes 46 glyphic placenames on the community’s territorial boundaries. The extra curve with glyphic placenames refers to an earlier set of boundaries. Alfonso Caso published a small book-length study of this pictorial map (1949, 1992), and Stephen L. Whittington has also published “The Mapa de Teozacoalco: An Early Colonial Guide to a Municipality in Oaxaca,” in The Society for American Archaeology (SAA) Archaeological Record 3:4 (2003), 20–22, and a report on the FAMSI website (http://www.famsi.org/reports/01032/section01.htm). Some of the information in this introduction comes from Barbara E. Mundy, \"Mesoamerican Cartography.\" In: The History of Cartography, vol. 2.3, David Woodward and G. Malcolm Lewis, eds. 183–256. Chicago and London: University of Chicago Press, 1998.  The lead scholar on this close study of the Mapa de Teozacualco is Bas van Doesburg. (Stephanie Wood)"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
