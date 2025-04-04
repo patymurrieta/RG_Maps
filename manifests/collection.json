@@ -11,5 +11,9 @@
       "en" : [ "Teozacoalco Map 1580" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json",
+    "label" : "Mapa de Teozacoalco"
   } ]
 }
