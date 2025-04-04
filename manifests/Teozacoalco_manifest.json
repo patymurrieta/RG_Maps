@@ -1,0 +1,100 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://patymurrieta.github.io/RG_Maps/manifests/Teozacoalco_manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Teozacoalco Map 1580" ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://mapas.wired-humanities.org/sites/default/files/styles/medium/public/mapaImages/teoz000.png?itok=DSm2ZZLW",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 178,
+    "width" : 220
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/ec46bw0g7r4-m92hltrw/canvas/gc27yj49qgn-m92hm2q0",
+    "type" : "Canvas",
+    "height" : 7672,
+    "width" : 9623,
+    "label" : {
+      "en" : [ "Teozacoalco Map" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Holder" ]
+      },
+      "value" : {
+        "en" : [ "LILLAS Benson, University of Texas at Austin" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "The Mapa de Teozacoalco is part of the map and manuscript genre called Relaciones Geográficas, produced in response to questionnaires that came from Spanish monarchs, seeking information about their colonies. This map was made in response to inquiries from the Spanish King Philip II. The Mapa de Teozacoalco, painted on twenty-three sheets of European paper pasted together at their edges, contains indigenous pictorial styles, but shows some European influence. The landscape, for instance, is dotted with new Christian churches. Roads show not only human footprints but also horseshoe prints. Emphasis resides in the history of Teozacoalco, with information about a tenth-century ruling family, and subsequent genealogy through the sixteenth century. The circular shape is worthy of special attention. The circle includes 46 glyphic placenames on the community’s territorial boundaries. The extra curve with glyphic placenames refers to an earlier set of boundaries. Alfonso Caso published a small book-length study of this pictorial map (1949, 1992), and Stephen L. Whittington has also published “The Mapa de Teozacoalco: An Early Colonial Guide to a Municipality in Oaxaca,” in The Society for American Archaeology (SAA) Archaeological Record 3:4 (2003), 20–22, and a report on the FAMSI website (http://www.famsi.org/reports/01032/section01.htm). Some of the information in this introduction comes from Barbara E. Mundy, \"Mesoamerican Cartography.\" In: The History of Cartography, vol. 2.3, David Woodward and G. Malcolm Lewis, eds. 183–256. Chicago and London: University of Chicago Press, 1998.  The lead scholar on this close study of the Mapa de Teozacualco is Bas van Doesburg. (Stephanie Wood)" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "This pictorial manuscript, measuring 142 by 177 cm., dating from 1580, and relating to the Mixtec community of San Pedro Teozacoalco, in the modern state of Oaxaca, resides currently in the Benson Library at the University of Texas, Austin." ]
+    },
+    "rights" : "Public Domain / Dominio Público (https://creativecommons.org/publicdomain/mark/1.0/)",
+    "thumbnail" : [ {
+      "id" : "https://mapas.wired-humanities.org/sites/default/files/styles/medium/public/mapaImages/teoz000.png?itok=DSm2ZZLW",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 178,
+      "width" : 220
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ec46bw0g7r4-m92hltrw/canvas/gc27yj49qgn-m92hm2q0/annotation-page/4spf0x7g40u-m92hm2q0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ec46bw0g7r4-m92hltrw/annotation/ptksw1e2c-m92hm2q0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ec46bw0g7r4-m92hltrw/canvas/gc27yj49qgn-m92hm2q0",
+        "body" : {
+          "id" : "https://patymurrieta.github.io/RG_Maps/images/blac_JGI_XXV_03_Teozacoalco_map_small/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 7672,
+          "width" : 9623,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 301,
+              "height" : 240
+            }, {
+              "width" : 602,
+              "height" : 480
+            }, {
+              "width" : 1203,
+              "height" : 959
+            }, {
+              "width" : 2406,
+              "height" : 1918
+            }, {
+              "width" : 4812,
+              "height" : 3836
+            }, {
+              "width" : 9623,
+              "height" : 7672
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 9623,
+            "@id" : "https://patymurrieta.github.io/RG_Maps/images/blac_JGI_XXV_03_Teozacoalco_map_small",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 7672,
+            "id" : "https://patymurrieta.github.io/RG_Maps/images/blac_JGI_XXV_03_Teozacoalco_map_small"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
