@@ -1,0 +1,15 @@
+{
+  "id" : "https://patymurrieta.github.io/RG_Maps/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in patymurrieta/RG_Maps project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://patymurrieta.github.io/RG_Maps/manifests/Teozacoalco_manifest.json",
+    "label" : {
+      "en" : [ "Teozacoalco Map 1580" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
