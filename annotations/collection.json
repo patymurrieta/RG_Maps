@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://patymurrieta.github.io/RG_Maps/annotations/Mapa_Teozacoalco_annotations.json" ],
+  "@id" : "https://patymurrieta.github.io/RG_Maps/annotations/collection.json",
+  "label" : "All annotations loaded in patymurrieta/RG_Maps project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
