@@ -1,0 +1,318 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Names",
+      "@type" : "oa:Tag",
+      "chars" : "Names"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Architecture",
+      "@type" : "oa:Tag",
+      "chars" : "Architecture"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;\">estas son las casas de don felipe e don fran[cis]co su yjo se&ntilde;ores naturales deste pu[ebl]o",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;\">estas son las casas de don felipe e don fran[cis]co su yjo se&ntilde;ores naturales deste pu[ebl]o</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-04-04T09:41:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743759714355",
+    "dcterms:modified" : "2025-04-04T09:41:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5221,3513,257,163"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5235.11812,3512.85426l-14.13818,133.84145l243.17673,29.21891l14.13818,-158.34764z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_60054ed8-3f12-4e49-a32e-0e0b7662ac30\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-04T10:00:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743760817937",
+    "dcterms:modified" : "2025-04-04T10:00:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5286,2340,700,723"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5948.24469,3063.0605l37.64055,-218.31521l-67.75299,-248.42765l-112.92166,-180.67465l-271.01198,-75.28111l-180.67465,105.39355l-67.75299,210.78709l150.56221,120.44977l233.37143,135.50599z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_e7041bae-0fc2-432d-9298-206ba114be35\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://web.archive.org/web/20161014062358if_/http://mw2.google.com/mw-panoramio/photos/medium/20382782.jpg\" alt=\"\" width=\"474\" height=\"355\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://web.archive.org/web/20161014062358if_/http://mw2.google.com/mw-panoramio/photos/medium/20382782.jpg\" alt=\"\" width=\"474\" height=\"355\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Arquitectura",
+      "@type" : "oa:Tag",
+      "chars" : "Arquitectura"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Iglesia",
+      "@type" : "oa:Tag",
+      "chars" : "Iglesia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Siglo XVI",
+      "@type" : "oa:Tag",
+      "chars" : "Siglo XVI"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-04-04T10:02:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743760932713",
+    "dcterms:modified" : "2025-04-04T10:02:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4561,2908,377,446"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4560.83985,2908.19864h188.33145v0h188.33145v223.18382v223.18382h-188.33145h-188.33145v-223.18382z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_c73af642-34ee-4e06-a784-26beae82ee98\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"34.85236\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-04T09:57:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743760670960",
+    "dcterms:modified" : "2025-04-04T09:57:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=357,3237,30,45"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M372.12159,3282.60171c0,-10.0846 5.0423,-20.16919 15.12689,-30.25379c0,-8.35435 -6.77254,-15.12689 -15.12689,-15.12689c-8.35435,0 -15.12689,6.77254 -15.12689,15.12689c10.0846,10.0846 15.12689,20.16919 15.12689,30.25379z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2c4ebfbb-9d51-4c3e-82f3-72f4b1f52df9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #3e3f3a; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #f8f5f0;\">Estos son los prencipales e se&ntilde;ores que antigua/mente salieron del pu[ebl]o de Tilanton[go] para este/ de Teosacualco, e los que destos prosedieron/ e oy dia son bibos son don Felipe de Santiago /y don Fran[cis]co de Mendosa, su yjo.<img src=\"https://mapas.wired-humanities.org/sites/default/files/mapaImages/teoz169.png\" alt=\"Este es un breve texto en castellano.\" width=\"600\" height=\"311\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #3e3f3a; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #f8f5f0;\">Estos son los prencipales e se&ntilde;ores que antigua/mente salieron del pu[ebl]o de Tilanton[go] para este/ de Teosacualco, e los que destos prosedieron/ e oy dia son bibos son don Felipe de Santiago /y don Fran[cis]co de Mendosa, su yjo.<img src=\"https://mapas.wired-humanities.org/sites/default/files/mapaImages/teoz169.png\" alt=\"Este es un breve texto en castellano.\" width=\"600\" height=\"311\" /></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Genealogy",
+      "@type" : "oa:Tag",
+      "chars" : "Genealogy"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nobles",
+      "@type" : "oa:Tag",
+      "chars" : "Nobles"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Names",
+      "@type" : "oa:Tag",
+      "chars" : "Names"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-04-04T09:39:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743759562419",
+    "dcterms:modified" : "2025-04-04T09:39:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1037,5623,717,370"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1094.89077,5622.81377l-57.6,256.58182l667.63636,113.89091l49.74545,-294.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_7a0f0143-fb91-43e1-ad14-f0c9d96a4114\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.28719\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Architecture",
+      "@type" : "oa:Tag",
+      "chars" : "Architecture"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Toponyms",
+      "@type" : "oa:Tag",
+      "chars" : "Toponyms"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;\">esta es la cabesera de correjymiento e y[g]lezia del pu[ebl]o de teozacualco llamado san pedro",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;\">esta es la cabesera de correjymiento e y[g]lezia del pu[ebl]o de teozacualco llamado san pedro</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-04-04T09:43:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743759816817",
+    "dcterms:modified" : "2025-04-04T09:43:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4471,3572,773,157"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4483.40738,3571.71116l-12.25309,82.00145l770.05964,75.40364l2.82764,-65.97818z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_5459e63f-c85e-4a90-bf58-93afab022cb1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ceremony",
+      "@type" : "oa:Tag",
+      "chars" : "Ceremony"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Religious",
+      "@type" : "oa:Tag",
+      "chars" : "Religious"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Acto procesional de fundacion.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Acto procesional de fundacion.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-04-04T09:55:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743760557249",
+    "dcterms:modified" : "2025-04-04T09:55:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1107,2029,2199,966"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1148.83078,2071.17394l-42.01915,623.28405l483.22022,-7.00319l42.01915,266.12128l315.14362,42.01915l133.06064,-210.09575l1225.55853,-14.00638l-7.00319,-742.33831z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_98fed715-b88d-4e0f-bf33-bbddc5123cfe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00ff51\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65606684",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-04T09:56:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743760596038",
+    "dcterms:modified" : "2025-04-04T09:56:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://patymurrieta.github.io/RG_Maps/manifests/Mapa_Teozacoalco_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4419,2085,553,427"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4419.32127,2113.19309l28.01277,392.17873l525.23937,7.00319v-427.19469z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b9e96167-9a93-4ccf-8318-47caf32a77b5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00ff51\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47f158e3-7850-47e4-817c-88add0cfc9dc"
+    } ]
+  } ],
+  "@id" : "https://patymurrieta.github.io/RG_Maps/annotations/Mapa_Teozacoalco_annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
